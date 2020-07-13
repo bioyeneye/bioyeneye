@@ -11,9 +11,6 @@
 [![](https://img.shields.io/badge/HackerRank-bioyeneye-brightgreen)](https://www.hackerrank.com/bioyeneye)
 -->
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Fudoora
 - 🌱 I’m currently learning Software architecture and Devops
 - 👯 I’m looking to collaborate on Financial Projects
