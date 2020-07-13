@@ -12,9 +12,9 @@
 -->
 
 - 🔭 I’m currently working on Fudoora
-- 🌱 I’m currently learning Software architecture and Devops
+- 🌱 I’m currently learning Software architectures and Devops
 - 👯 I’m looking to collaborate on Financial Projects
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with Software Business
 - 💬 Ask me about Microservices Architecture (C#, Golang, Java, NodeJS)
 
 <!-- ***
