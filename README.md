@@ -1,7 +1,15 @@
-### Hi there 👋
+<!-- ** ### Hi there 👋 -->
 
+### Hi, I'm Simisola 👋🏾 🧔🏻
+
+[![](https://img.shields.io/badge/LinkedIn-bolajioyeneye-blue)](https://www.linkedin.com/in/bolajioyeneye/)
+[![](https://img.shields.io/badge/Gmail-simisola.oyeneye%40gmail.com-red)](mailto:simisola.oyeneye@gmail.com)
+[![](https://img.shields.io/badge/HackerRank-bioyeneye-brightgreen)](https://www.hackerrank.com/bioyeneye)
 <!--
 **bioyeneye/bioyeneye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +21,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
