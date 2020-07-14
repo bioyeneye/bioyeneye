@@ -1,7 +1,7 @@
 <!-- ** ### Hi there 👋 -->
 
 ### Hi, I'm Simisola 👋🏾 🧔🏻
-#### I manage the back 100%, appears pretty well with qualities on web 👨🏿‍💻 and mobile 📱, acting on development along with side operation 👷🏿‍♂️.
+#### I manage the back 100%, appears pretty well with qualities on web 👨🏿‍💻 and mobile 📱, acting on development along with side operations 👷🏿‍♂️.
 [![](https://img.shields.io/badge/LinkedIn-bolajioyeneye-blue)](https://www.linkedin.com/in/bolajioyeneye/)
 [![](https://img.shields.io/badge/Gmail-simisola.oyeneye%40gmail.com-red)](mailto:simisola.oyeneye@gmail.com)
 [![](https://img.shields.io/badge/Skype-live:ibrahim.oyeneye-blue)](live:ibrahim.oyeneye)
