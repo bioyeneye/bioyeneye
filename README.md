@@ -1,7 +1,7 @@
 <!-- ** ### Hi there 👋 -->
 
 ### Hi, I'm Simisola 👋🏾 🧔🏻
-
+#### I manage the back 100%, appears pretty well with qualities on web 👨🏿‍💻 and mobile 📱, acting on development along with side operation 👷🏿‍♂️.
 [![](https://img.shields.io/badge/LinkedIn-bolajioyeneye-blue)](https://www.linkedin.com/in/bolajioyeneye/)
 [![](https://img.shields.io/badge/Gmail-simisola.oyeneye%40gmail.com-red)](mailto:simisola.oyeneye@gmail.com)
 [![](https://img.shields.io/badge/Skype-live:ibrahim.oyeneye-blue)](live:ibrahim.oyeneye)
@@ -12,8 +12,8 @@
 -->
 
 - 🔭 I’m currently working on Fudoora
-- 🌱 I’m currently learning Software architectures and Devops
-- 👯 I’m looking to collaborate on Financial Projects
+- 🌱 I’m currently learning Software Architectures and Devops
+- 👯 I’m looking to collaborate with Startups
 - 🤔 I’m looking for help with Software Business
 - 💬 Ask me about Microservices Architecture (C#, Golang, Java, NodeJS)
 
