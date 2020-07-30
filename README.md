@@ -11,7 +11,7 @@
 [![](https://img.shields.io/badge/HackerRank-bioyeneye-brightgreen)](https://www.hackerrank.com/bioyeneye)
 -->
 
-- 🔭 I’m currently working on Fudoora
+- 🔭 I’m currently working on **Fudoora**
 - 🌱 I’m currently learning Software Architectures and Devops
 - 👯 I’m looking to collaborate with Startups
 - 🤔 I’m looking for help with Software Business
