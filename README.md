@@ -13,15 +13,14 @@
 
 - 🏢 I’m currently working on **Fudoora**
 - ⚙️ I use daily: `.cs`, `.js`, `.html`, `.css`, `.svg`
-- 🌱 I’m currently learning Software Architectures and Devops
+- 🌱 I’m currently learning Software Architectures and DevOps
 - 👯 I’m looking to collaborate with Startups
 - 🤔 I’m looking for help with Software Business
-- 💬 Ask me about Microservices Architecture (C#, Golang, Java, NodeJS)
+- 💬 Ask me about Microservices Architecture (C#, Golang, Spring Boot, NodeJS)
 
 <!-- ***
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
